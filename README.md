@@ -1,3 +1,6 @@
+**_Note: This is a clone of_ `https://github.com/kervinck/gigatron-rom`_, not a fork._**
+
+
 Software for Gigatron ROM
 =========================
 
